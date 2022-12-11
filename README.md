@@ -1,8 +1,12 @@
-DESCRIÇÃO 
+# Netflix Clone
 
-Site feito com o intuito de estudo, baseado em um video tutorial no Youtube, replicando a pagina inicial da Netflix e utilizando uma API (TMDB), para simular os filmes
+Site replicando a pagina inicial do site Netflix para fins de estudos, seguindo o tutorial através de um video no Youtube, utilizando a API do TMDB, para simular os filmes.
 
-TECNOLOGIAS
+### 🛠️ Tecnologias 
 
 - REACT
 - API (TMDB)
+
+### 📋 Status Do Projeto
+
+- Finalizado ✔️
